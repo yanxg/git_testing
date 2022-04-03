@@ -1,7 +1,14 @@
 This is to test two developers' developmental work
 
 
+<<<<<<< HEAD
+
+
+This is to change the same file different areas
+
+=======
 This is to change the same file different area
 
 
+>>>>>>> 4afcb43fe2250beb1880da5cdbabcb2e1370b491
 
