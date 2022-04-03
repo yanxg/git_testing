@@ -1,3 +1,5 @@
 This is about learning git
 
+Git is a good tool.
+
 
